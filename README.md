@@ -21,7 +21,7 @@
 
 
 
-📖 [Clique aqui para ler o ebook gerado](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf)
+📖 [Clique aqui para ler o ebook gerado](https://github.com/AlbertoPerereira/prompts-recipe-to-create-a-ebook/tree/main/output)
 
 ## 💻 Tecnologias utilizadas no projeto
 
